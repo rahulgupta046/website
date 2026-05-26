@@ -1,0 +1,7 @@
+ROLE: Graduate TA — Distributed Systems
+ORG: Indiana University
+COURSE: CSCI-B 534 / ENGR-E 510
+DATE: Jan 2024 — May 2024
+
+BULLETS:
+- TA for graduate Distributed Systems course — managed lab sessions and doubt-solving for 50 students.

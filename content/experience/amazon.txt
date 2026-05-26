@@ -1,0 +1,21 @@
+ROLE: Software Development Engineer
+ORG: Amazon Search
+DATE: Dec 2024 — Present
+LOCATION: Palo Alto, CA
+BADGE: Active role
+
+STACK:
+- FastAPI
+- Triton Server
+- gRPC/Protobuf
+- PySpark
+- AWS EMR/S3/EC2
+- Docker
+
+BULLETS:
+- Engineered and enhanced two large-scale ML ranking systems — widget ranking and page template ranking — optimizing search page layouts across global storefront traffic at 10K+ QPS.
+- Built and maintained distributed PySpark feature engineering pipelines processing tens of terabytes of daily interaction data, generating behavioral signals for production ranking models.
+- Optimized a legacy Spark training pipeline by redesigning data processing stages and parallelization strategy — reducing runtime from ~9 hours to ~2.5 hours and accelerating experimentation cycles.
+- Strengthened ML pipeline reliability via monitoring, automated alerting, and failure diagnostics — reducing recurring pipeline incidents by more than 60%.
+- Developed production deployment infrastructure for ranking models: rollout validation checks, monitoring dashboards, and safe rollback mechanisms to reduce production risk on model updates.
+- Integrated Qwen-1.7B into the final-stage ranking workflow; analyzed latency-quality trade-offs under strict production latency constraints.

@@ -1,0 +1,8 @@
+DEGREE: B.Tech, Computer Science
+INSTITUTION: Manipal Institute of Technology, India
+DATE: 2018 — 2022
+GPA: (add if desired)
+
+NOTES:
+- IEEE-published research on feature-based opinion mining
+- Undergraduate Research Assistant under Prof. Poornaltha G.

@@ -1,0 +1,15 @@
+ROLE: Software Engineer
+ORG: PwC India
+DATE: May 2023 — Jul 2023
+LOCATION: India
+
+STACK:
+- Python
+- ClickHouse
+- Network Analysis
+- Security
+
+BULLETS:
+- Built a host activity monitoring system analyzing security telemetry across 50+ enterprise hosts, enabling automated detection of suspicious behaviors.
+- Designed network log ingestion pipeline processing 1,000+ security events/day into ClickHouse — reducing manual log analysis by ~40% and troubleshooting time by ~6 hrs/week.
+- Optimized ClickHouse log storage and query performance — improving threat investigation turnaround for security operations teams.

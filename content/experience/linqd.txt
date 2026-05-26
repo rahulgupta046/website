@@ -1,0 +1,15 @@
+ROLE: Machine Learning Engineer
+ORG: linqd.
+DATE: Oct 2024 — Nov 2024
+LOCATION: New York, NY
+
+STACK:
+- PySpark
+- SQL
+- ML Modeling
+- Statistical Analysis
+
+BULLETS:
+- Processed 50,000+ data points using SQL and PySpark for customer segmentation, improving targeted marketing accuracy by 20%.
+- Built ML models for account scoring / Customer Lifetime Value (CLV) prediction to improve lead prioritization.
+- Developed multi-touch attribution models using statistical analysis to evaluate marketing channel performance and optimize resource allocation.

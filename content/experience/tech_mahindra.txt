@@ -1,0 +1,14 @@
+ROLE: Software Engineer — R&D / Makers Lab
+ORG: Tech Mahindra
+DATE: Dec 2021 — Apr 2022
+LOCATION: Pune, India
+
+STACK:
+- NLP
+- Flask
+- Computer Vision
+- Python
+
+BULLETS:
+- Developed NLP-based MCQ-from-text generation application using Flask — improving question generation efficiency by 10%.
+- Implemented a chest disease detection system achieving a 7% improvement in diagnostic accuracy and reducing patient wait time by 15%.

@@ -1,0 +1,21 @@
+TITLE: Widget & Template Ranking Systems
+CATEGORY: llm
+CATEGORY_LABEL: LLM / GenAI · Amazon Search
+EMPLOYER: Amazon Search
+
+STACK:
+- FastAPI
+- Triton Server
+- gRPC/Protobuf
+- Qwen-1.7B
+- AWS
+
+LINK: (internal — no public link)
+
+DESCRIPTION:
+Two large-scale ML ranking systems controlling what users see on Amazon Search globally — widget ranking and page template ranking. FastAPI orchestrates ranking inference via Triton Server over gRPC/Protobuf. Experimented with Qwen-1.7B reranking in the final stage; analyzed latency-quality trade-offs under strict production SLAs. Deployment infra includes rollout validation, monitoring dashboards, and safe rollback.
+
+KEY METRICS:
+- 10K+ QPS
+- p99 <55ms latency SLA
+- Global storefront traffic

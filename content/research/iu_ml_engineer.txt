@@ -1,0 +1,17 @@
+ROLE: Machine Learning Engineer
+ORG: Indiana University Bloomington
+DATE: May 2024 — Jul 2024
+LOCATION: Bloomington, IN
+
+STACK:
+- PyTorch
+- GAN
+- FastAPI
+- Pandas
+- NumPy
+
+BULLETS:
+- Trained PyTorch GAN models generating synthetic CO₂ time-series data for 10+ regions — scaling training data from 120K to 500K+ records.
+- Validated synthetic data using KL divergence and Wasserstein distance against real distributions for downstream climate prediction research.
+- Built FastAPI services supporting 15+ ML workflows; reduced data preprocessing from 45 min to under 13 min via Pandas/NumPy pipeline redesign.
+- Optimized GPU training cycle from ~10 to ~6 hours via GPU acceleration and modular training scripts.

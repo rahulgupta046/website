@@ -1,0 +1,20 @@
+TITLE: Multi-Camera Object Tracking System
+CATEGORY: vision
+CATEGORY_LABEL: Computer Vision · HSC
+EMPLOYER: Hughes Systique Corporation (HSC)
+
+STACK:
+- Python
+- OpenCV
+- OSNET
+- Neural Networks
+
+LINK: (proprietary — no public link)
+
+DESCRIPTION:
+Multiple Object Detection System achieving 78% baseline accuracy using Python, OpenCV, and neural networks. Extended to a multi-camera People Recognition and Tracking system using OSNET architecture — enabling cross-camera identification of individuals across scenarios. Focused on real-time inference optimization and cross-view re-identification.
+
+KEY METRICS:
+- 78% detection accuracy (baseline)
+- Multi-camera cross-view re-identification
+- OSNET architecture for person re-ID

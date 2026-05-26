@@ -1,0 +1,23 @@
+TITLE: Synthetic CO₂ Dataset Generation via GANs
+CATEGORY: ml
+CATEGORY_LABEL: ML & Data · IU Research
+EMPLOYER: Indiana University Bloomington
+
+STACK:
+- PyTorch
+- GANs
+- KL Divergence
+- FastAPI
+- Pandas
+
+LINK: (research project — no public repo)
+
+DESCRIPTION:
+PyTorch GAN models generating synthetic time-series CO₂ emission data for 10+ global regions, scaling training data from 120K to 500K+ records. Validated synthetic vs. real distributions using KL divergence and Wasserstein distance. FastAPI services enabled configurable dataset access across 15+ ML workflows. Data preprocessing redesigned from 45 min to under 13 min with Pandas/NumPy.
+
+KEY METRICS:
+- 120K → 500K+ records generated
+- 10+ global regions covered
+- 45 min → 13 min preprocessing
+- GPU training: ~10h → ~6h
+- Validated with KL divergence + Wasserstein distance

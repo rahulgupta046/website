@@ -1,0 +1,23 @@
+TITLE: Feature-Based Opinion Mining for Mobile Reviews
+CATEGORY: research
+CATEGORY_LABEL: Research · IEEE ICAITPR-2022
+EMPLOYER: Manipal Institute of Technology
+
+STACK:
+- Python
+- NLP
+- VADER
+- TextBlob
+- C++
+- IEEE
+
+LINK: portfolio-details1.html
+# Update with DOI/IEEE link once available
+
+DESCRIPTION:
+Built a real-time scraper (Parse Hub) harvesting Amazon & Flipkart reviews, processed with Python using VADER and TextBlob for sentiment analysis, and trained a feature classification model at 82% accuracy. Findings compiled into a paper presented at IEEE International Conference on AI Trends and Pattern Recognition 2022. Used NLP, C++, Python, and opinion mining to derive feature-level ratings for mobile brands.
+
+PUBLICATION:
+Title: Feature Based Opinion Mining for Mobile Reviews
+Venue: IEEE ICAITPR-2022
+Accuracy: 82%

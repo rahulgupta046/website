@@ -1,0 +1,21 @@
+TITLE: Distributed Key-Value Store
+CATEGORY: distributed
+CATEGORY_LABEL: Distributed Systems · IU Graduate Coursework
+EMPLOYER: Indiana University Bloomington
+
+STACK:
+- Python
+- Vector Clocks
+- Consistency Models
+- Fault Tolerance
+
+LINK: https://github.com/rahulgupta046
+# Update above with specific repo URL once connected
+
+DESCRIPTION:
+3-node distributed KV store in Python implementing four explicit consistency models as independent servers — linearizable (single-copy semantics), sequential, causal (vector clock-based ordering), and eventual. Per-node persistent storage with fault tolerance tested under node failure at each consistency level. Designed to demonstrate how consistency model selection changes read/write semantics, not just performance.
+
+KEY DESIGN DECISIONS:
+- Each consistency model is a separate server implementation, not a config flag
+- Vector clocks used for causal ordering
+- Fault tested by killing nodes mid-operation at each consistency level

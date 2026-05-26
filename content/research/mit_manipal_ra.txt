@@ -1,0 +1,20 @@
+ROLE: Undergraduate Research Assistant
+ORG: Manipal Institute of Technology
+SUPERVISOR: Prof. Poornaltha G.
+DATE: Feb 2021 — Mar 2022
+LOCATION: Manipal, India
+
+STACK:
+- NLP
+- Python
+- C++
+- VADER
+- IEEE
+
+BULLETS:
+- Published and presented at IEEE ICAITPR-2022 — "Feature Based Opinion Mining for Mobile Reviews" using sentiment analysis, NLP, VADER, and TextBlob achieving 82% accuracy.
+
+PUBLICATION:
+Title: Feature Based Opinion Mining for Mobile Reviews
+Conference: IEEE International Conference on AI Trends and Pattern Recognition (ICAITPR-2022)
+Link: portfolio-details1.html

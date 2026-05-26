@@ -1,0 +1,22 @@
+TITLE: Terabyte-Scale PySpark Feature Pipelines
+CATEGORY: ml
+CATEGORY_LABEL: ML & Data · Amazon Search
+EMPLOYER: Amazon Search
+
+STACK:
+- PySpark
+- Spark
+- AWS EMR
+- Docker
+- Python
+
+LINK: (internal — no public link)
+
+DESCRIPTION:
+Distributed PySpark pipelines that process tens of terabytes of daily Amazon Search interaction data, generating behavioral signals and training features for production ranking models. Redesigned data processing stages and parallelization strategy to cut training runtime from ~9 to ~2.5 hours, reduce cluster cost by 50% (200→100 r7g.8xlarge nodes). Added automated alerting and failure diagnostics, reducing recurring incidents by 60%+.
+
+KEY METRICS:
+- Tens of terabytes processed daily
+- ~9h → ~2.5h training runtime
+- 50% cluster cost reduction (200→100 r7g.8xlarge nodes)
+- 60%+ fewer recurring pipeline incidents

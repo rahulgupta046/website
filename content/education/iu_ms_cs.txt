@@ -1,0 +1,14 @@
+DEGREE: Master of Science, Computer Science
+INSTITUTION: Indiana University Bloomington, USA
+DATE: Jul 2022 — May 2024
+GPA: (add if desired)
+
+COURSEWORK:
+- Distributed Systems
+- Algorithms
+- Machine Learning
+- Artificial Intelligence
+
+NOTES:
+- Graduate TA for Distributed Systems and Algorithms courses
+- Research in synthetic data generation (GAN-based CO₂ time-series)

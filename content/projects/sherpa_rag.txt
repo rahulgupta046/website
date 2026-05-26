@@ -1,0 +1,22 @@
+TITLE: Semantic Analytics Platform — 1M+ Record RAG
+CATEGORY: llm
+CATEGORY_LABEL: LLM / GenAI · Sherpa Analytics
+EMPLOYER: Sherpa Analytics LLC
+
+STACK:
+- LangChain
+- RAG
+- pgvector
+- Vector DBs
+- PostgreSQL
+
+LINK: (private — no public link)
+
+DESCRIPTION:
+LLM-powered analytics platform for hospitality datasets with 1M+ records, enabling analysts to retrieve insights via natural language. Core: hybrid retrieval combining vector search and SQL-based structured queries (60s → <30s lookup). RAG pipelines built with LangChain and vector databases cut manual data exploration by 10 hrs/week. Embedding indexing optimization reduced processing time by 30%.
+
+KEY METRICS:
+- 1M+ hospitality records indexed
+- 60s → <30s data lookup time
+- 30% faster embedding ingestion
+- 10 hrs/week saved for analytics teams

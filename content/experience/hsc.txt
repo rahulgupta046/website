@@ -1,0 +1,14 @@
+ROLE: Software Engineer Intern
+ORG: Hughes Systique Corporation (HSC)
+DATE: Jun 2021 — Aug 2021
+LOCATION: India
+
+STACK:
+- Python
+- OpenCV
+- Neural Networks
+- OSNET
+
+BULLETS:
+- Built a Multiple Object Detection System using Python, OpenCV, and Neural Networks — achieving 78% baseline accuracy.
+- Contributed to a People Recognition & Tracking system with multi-camera setup using OSNET architecture for cross-camera individual identification.

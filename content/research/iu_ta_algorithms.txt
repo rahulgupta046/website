@@ -1,0 +1,7 @@
+ROLE: Teaching Assistant — Algorithms & Health
+ORG: Indiana University
+COURSE: CSCI B-403, SPH 180
+DATE: Sep 2022 — Dec 2023
+
+BULLETS:
+- Guided 50 students in algorithm design and formulation; ran hands-on lab sessions.

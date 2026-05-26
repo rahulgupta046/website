@@ -1,0 +1,19 @@
+ROLE: Generative AI Engineer
+ORG: Sherpa Analytics LLC
+DATE: Aug 2024 — Dec 2024
+LOCATION: United States
+
+STACK:
+- LangChain
+- RAG
+- pgvector
+- Vector DBs
+- Python
+- FastAPI
+
+BULLETS:
+- Built backend services for an LLM-powered analytics platform enabling semantic search across hospitality datasets with 1M+ records via natural language queries.
+- Designed a hybrid retrieval system combining vector search and SQL-based structured queries — cutting average data lookup time from 60+ seconds to under 30 seconds.
+- Developed RAG pipelines using LangChain and vector databases — improving contextual response quality and reducing manual data exploration by 10 hours/week for analytics teams.
+- Built scalable Python inference services for AI-driven analytics features used by 10+ business stakeholders.
+- Optimized embedding generation and indexing workflows — reducing data processing time by 30% and enabling faster ingestion of new hospitality datasets.
